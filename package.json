@@ -1,6 +1,6 @@
 {
-  "author": "Alexandr Abramtchik",
-  "description": "Training with webpack",
+  "name": "Alexandr",
+  "description": "Webpack try",
   "dependencies": {
     "webpack": "4.27.1",
     "webpack-cli": "3.1.2"
